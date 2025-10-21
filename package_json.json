@@ -1,6 +1,7 @@
 {
   "name": "minha-api",
   "version": "1.0.0",
+  "description": "API simples para testar no Render",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
